@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18910#Diary-of-a-Nursing-Sister-on-the-Western-Front-1914-1915
 gutenberg_bookshelf:
 - World War I
 - Women's Travel Journals
